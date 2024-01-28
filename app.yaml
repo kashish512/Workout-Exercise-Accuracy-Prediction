@@ -1,0 +1,11 @@
+runtime: python310
+# entrypoint: "gunicorn -b :$PORT main:app"
+# entrypoint: "gunicorn -k uvicorn.workers.UvicornWorker main:app"
+entrypoint: "uvicorn main:app --host 0.0.0.0 --port 8080 --reload"
+# entrypoint: "gunicorn -k uvicorn.workers.UvicornWorker -b :$PORT main:app"
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "first-parser-410916-64da59f4283f.json"
+
+resources:
+  cpu: 2
+  memory_gb: 4

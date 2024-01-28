@@ -1,0 +1,12 @@
+fastapi
+mediapipe
+numpy
+opencv_python
+ultralytics<=8.0.230
+python-multipart
+uvicorn
+gunicorn
+google-cloud-storage
+pip
+setuptools
+
