@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/dee1edab-24f9-41bd-807d-78521e95f4e8
+
+
+
+https://github.com/user-attachments/assets/3be9ab45-934c-4375-8c5b-eabc728b1a3e
+
 # Exercise Video Analysis API
 This API analyzes exercise videos to determine the type of exercise being performed and provides metrics on form and muscle engagement.
 
