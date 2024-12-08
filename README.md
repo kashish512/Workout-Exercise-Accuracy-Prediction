@@ -15,9 +15,11 @@ The Exercise Video Analysis API uses YOLOv5 for object detection and Mediapipe f
 8. Python Libraries: requests, numpy, ultralytics for handling HTTP requests, numerical operations, and integrating with YOLOv5, respectively.
 
 
-https://github.com/user-attachments/assets/19056cd4-86b7-44d9-be8a-07feaf66ae98
+
+https://github.com/user-attachments/assets/517d1a67-9d55-4707-977e-cd9c9dd32bce
 
 
 
-https://github.com/user-attachments/assets/279e49b7-172d-4505-89ce-8b50a778015e
+https://github.com/user-attachments/assets/747a6972-df71-4992-a12f-37b54b319616
+
 
