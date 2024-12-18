@@ -16,7 +16,16 @@ The Exercise Video Analysis API uses YOLOv5 for object detection and Mediapipe f
 
 
 
-https://github.com/user-attachments/assets/4eae0495-dd2f-435c-a766-8d6fdd4ae1eb
+
+https://github.com/user-attachments/assets/c139b0cb-7553-427e-be49-edd2e127facc
+
+
+
+https://github.com/user-attachments/assets/e6296330-beda-4a09-9d9e-dfebc79ef842
+
+
+
+
 
 
 
