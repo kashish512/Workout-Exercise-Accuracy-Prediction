@@ -13,27 +13,3 @@ The Exercise Video Analysis API uses YOLOv5 for object detection and Mediapipe f
 6. Cloud Storage: Used for storing input and output videos securely.
 7. Cloud Run: Serverless compute platform for deploying and scaling containerized applications.
 8. Python Libraries: requests, numpy, ultralytics for handling HTTP requests, numerical operations, and integrating with YOLOv5, respectively.
-
-
-
-
-https://github.com/user-attachments/assets/c139b0cb-7553-427e-be49-edd2e127facc
-
-
-
-https://github.com/user-attachments/assets/e6296330-beda-4a09-9d9e-dfebc79ef842
-
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/c8f47891-13a5-42b0-9768-e1ba42fe7cab
-
-
-
-
-
-
